@@ -6,6 +6,8 @@
   "author"       : "Tyler Pearson",
   "dependencies" : {
     "request"    : "latest",
-    "cheerio"    : "latest"
+    "cheerio"    : "latest",
+    "html-entities": "latest",
+    "iconv-lite": "latest"
   }
 }

@@ -1,0 +1,11 @@
+{
+  "name"         : "nc-laws-scrape",
+  "version"      : "0.0.1",
+  "description"  : "scaping nc laws",
+  "main"         : "script.js",
+  "author"       : "Tyler Pearson",
+  "dependencies" : {
+    "request"    : "latest",
+    "cheerio"    : "latest"
+  }
+}
